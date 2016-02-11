@@ -10,9 +10,14 @@ post, but some of them do ([niloc.io](http://niloc.io)).
 
 ### Categories
 
+* [Git](#git)
 * [SSH](#ssh)
 
 ---
+
+### Git
+
+- [Changing Repository Root](git/changing-repository-root.md)
 
 ### SSH
 
