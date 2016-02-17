@@ -11,6 +11,7 @@ post, but some of them do ([niloc.io](http://niloc.io)).
 ### Categories
 
 * [Git](#git)
+* [Selenium/TestNG](#selenium-testng)
 * [SSH](#ssh)
 
 ---
@@ -18,6 +19,10 @@ post, but some of them do ([niloc.io](http://niloc.io)).
 ### Git
 
 - [Changing Repository Root](git/changing-repository-root.md)
+
+### Selenium/TestNG
+
+- [Scroll Element Into View](selenium-testng/scroll-element-into-view.md)
 
 ### SSH
 
