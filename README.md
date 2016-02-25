@@ -16,6 +16,10 @@ post, but some of them do ([niloc.io](http://niloc.io)).
 
 ---
 
+### ElasticSearch
+
+- [Adding Fields To ElasticSearch Index Mapping](elasticsearch/add-field-to-mapping.md)
+
 ### Git
 
 - [Changing Repository Root](git/changing-repository-root.md)
