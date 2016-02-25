@@ -6,8 +6,7 @@ Setting up field mappings can be quite tricky.  Adding a field to an ES mapping 
 actually quite simple.
 
 ```bash
-$ curl -X POST 'http://localhost:9200/yourindexname/_mapping/yourindextype' -d \
-'
+$ curl -X POST 'http://localhost:9200/yourindexname/_mapping/yourindextype' -d \'
 {
   "properties": {
     "your_field_name": {
