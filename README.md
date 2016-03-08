@@ -10,6 +10,7 @@ post, but some of them do ([niloc.io](http://niloc.io)).
 
 ### Categories
 
+* [ElasticSearch](#elasticsearch)
 * [Git](#git)
 * [Selenium/TestNG](#selenium-testng)
 * [SSH](#ssh)
