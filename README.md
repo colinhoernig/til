@@ -23,6 +23,7 @@ post, but some of them do ([niloc.io](http://niloc.io)).
 ### Git
 
 - [Changing Repository Root](git/changing-repository-root.md)
+- [Remote Operations Fail After Updating SSH Config To Use IdentitiesOnly](git/remote-operations-fail-after-identitiesonly.md)
 
 ### Selenium/TestNG
 
@@ -31,3 +32,4 @@ post, but some of them do ([niloc.io](http://niloc.io)).
 ### SSH
 
 - [SSH Key Forwarding](ssh/ssh-key-forwarding.md)
+- [Too Many Auth Failures for {Username}](ssh/too-many-auth-failures-for-username.md)
