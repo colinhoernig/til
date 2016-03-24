@@ -26,6 +26,10 @@ post, but some of them do ([niloc.io](http://niloc.io)).
 - [Changing Repository Root](git/changing-repository-root.md)
 - [Remote Operations Fail After Updating SSH Config To Use IdentitiesOnly](git/remote-operations-fail-after-identitiesonly.md)
 
+### JavaScript
+
+- [`this` Keyword - Binding Rules](javascript/this-keyword.md)
+
 ### Selenium/TestNG
 
 - [Scroll Element Into View](selenium-testng/scroll-element-into-view.md)
