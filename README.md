@@ -12,6 +12,7 @@ post, but some of them do ([niloc.io](http://niloc.io)).
 
 * [ElasticSearch](#elasticsearch)
 * [Git](#git)
+* [JavaScript](#javascript)
 * [Selenium/TestNG](#selenium-testng)
 * [SSH](#ssh)
 
