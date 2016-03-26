@@ -30,6 +30,7 @@ post, but some of them do ([niloc.io](http://niloc.io)).
 ### JavaScript
 
 - [`this` Keyword - Binding Rules](javascript/this-keyword.md)
+- [Symbols in ES6](javascript/symbols-in-es6.md)
 
 ### Selenium/TestNG
 
