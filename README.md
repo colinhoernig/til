@@ -25,6 +25,7 @@ post, but some of them do ([niloc.io](http://niloc.io)).
 ### Git
 
 - [Changing Repository Root](git/changing-repository-root.md)
+- [Commit Counts by Author](git/commit-counts-by-author.md)
 - [Remote Operations Fail After Updating SSH Config To Use IdentitiesOnly](git/remote-operations-fail-after-identitiesonly.md)
 
 ### JavaScript
