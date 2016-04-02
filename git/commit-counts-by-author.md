@@ -8,5 +8,4 @@ Git has a built in `shortlog` command that makes this data easy to retreive.
 git shortlog -s -n
 ```
 
-`-s` - Squash commit messages into number of commits
-`-n` - Order by commit count, descending
+`-s` - Squash commit messages into number of commits, `-n` - Order by commit count, descending
