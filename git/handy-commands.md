@@ -1,4 +1,4 @@
-# Changing Repository Root
+# Handy Git Commands
 _06/13/2016_
 
 Here are a few commands that I've found handy.
