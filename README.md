@@ -14,6 +14,7 @@ post, but some of them do ([niloc.io](http://niloc.io)).
 * [Git](#git)
 * [JavaScript](#javascript)
 * [Selenium/TestNG](#selenium-testng)
+* [Shell](#shell)
 * [SSH](#ssh)
 
 ---
@@ -37,6 +38,10 @@ post, but some of them do ([niloc.io](http://niloc.io)).
 ### Selenium/TestNG
 
 - [Scroll Element Into View](selenium-testng/scroll-element-into-view.md)
+
+### Shell
+
+- [List Top 10 Largest Directories](shell/list-top-10-largest-directories.md)
 
 ### SSH
 
